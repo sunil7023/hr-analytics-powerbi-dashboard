@@ -63,20 +63,6 @@ To turn raw HR records into a simple dashboard that answers questions such as:
 | Design | Custom dark theme, consistent colors, clear layout |
 
 ---
-
-## 📁 Repository Structure
-
-```
-hr-analytics-powerbi-dashboard/
-│
-├── hr_analytics_dashboard.pbix     # Power BI report file
-├── data/
-│   └── YOUR-DATA-FILE-NAME         # Source data (CSV or Excel)
-├── screenshots/
-│   └── dashboard.png
-└── README.md
-```
-
 ---
 
 ## 📂 Data Source
@@ -111,12 +97,12 @@ Key columns used in the dashboard:
 
 ---
 
-## 📬 Contact
+📬 Contact
 
-Available for freelance Power BI, Excel and reporting projects on **Upwork** and **Fiverr**.
+Available for freelance Power BI, Excel and reporting projects on Upwork and Fiverr.
 
-- **Name:** Sunil Luhar
-- **LinkedIn:** [My LinkedIn Profile](PASTE-YOUR-LINKEDIN-LINK-HERE)
-- **Upwork:** [My Upwork Profile](PASTE-YOUR-UPWORK-LINK-HERE)
-- **Fiverr:** [My Fiverr Profile](PASTE-YOUR-FIVERR-LINK-HERE)
-- **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)
+Name: Sunil Luhar
+LinkedIn: www.linkedin.com/in/sunil-luhar-b7ab69383
+Upwork:(https://www.upwork.com/freelancers/~012da964e093fca48f)
+Fiverr: https://www.fiverr.com/s/Q2rQrN1
+Email: luharsunil965@gmail.com
